@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33183601635",
+    "project_id": "quote-app-abdo",
+    "storage_bucket": "quote-app-abdo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33183601635:android:f295037a101e48486706d6",
+        "android_client_info": {
+          "package_name": "com.example.quote_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC266doutiKaeOc-n3hqG40evfMVNICCog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
